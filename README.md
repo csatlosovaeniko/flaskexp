@@ -1,2 +1,0 @@
-# flaskexp
-Experimenty s Flaskom
